@@ -1,1 +1,1 @@
-This Repo contains NLP projects that aim to understand language using NLP technics
+This Repo contains NLP projects that aim to understand language using NLP techniques
